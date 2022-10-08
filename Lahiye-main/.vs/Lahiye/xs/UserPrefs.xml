@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0E777E2E-A055-4908-AA64-DC8E69371C26}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lahiye PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lahiye/Bank.cs">
+    <Files>
+      <File FileName="Lahiye/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Lahiye/Models/Branch.cs" Line="1" Column="1" />
+      <File FileName="Lahiye/Models/Manager.cs" Line="19" Column="1" />
+      <File FileName="Lahiye/Bank.cs" Line="12" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lahiye" expanded="True">
+            <Node name="Lahiye" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

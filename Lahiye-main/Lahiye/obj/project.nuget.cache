@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjXNfzX46q9JE89KxikSFNf5c+TbP7zIjcztFo//GumvbR/u2fNce9D2F9WomkDz1Rq3ddD7OImvdbwCxQFiwg==",
+  "success": true,
+  "projectFilePath": "/Users/anargurbanov/Desktop/Lahiye-main/Lahiye/Lahiye.csproj",
+  "expectedPackageFiles": [
+    "/Users/anargurbanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/anargurbanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/anargurbanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
